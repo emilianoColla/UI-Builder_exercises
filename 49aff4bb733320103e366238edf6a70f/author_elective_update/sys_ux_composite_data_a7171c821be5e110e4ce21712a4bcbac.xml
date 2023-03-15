@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data">
+    <sys_ux_composite_data action="DELETE">
+        <active>true</active>
+        <base_filter_label>Default</base_filter_label>
+        <name>SOW RITM - Assigned to me</name>
+        <query_parameters/>
+        <required_roles/>
+        <sort_order>descend</sort_order>
+        <sys_class_name>sys_ux_composite_data</sys_class_name>
+        <sys_created_by>emiliano.colla</sys_created_by>
+        <sys_created_on>2023-03-14 08:30:41</sys_created_on>
+        <sys_id>a7171c821be5e110e4ce21712a4bcbac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SOW RITM - Assigned to me</sys_name>
+        <sys_package display_value="Incident Management - Service Operations Workspace" source="sn_sow_inc">49aff4bb733320103e366238edf6a70f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Incident Management - Service Operations Workspace">49aff4bb733320103e366238edf6a70f</sys_scope>
+        <sys_update_name>sys_ux_composite_data_a7171c821be5e110e4ce21712a4bcbac</sys_update_name>
+        <sys_updated_by>emiliano.colla</sys_updated_by>
+        <sys_updated_on>2023-03-14 08:30:41</sys_updated_on>
+    </sys_ux_composite_data>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Incident Management - Service Operations Workspace">49aff4bb733320103e366238edf6a70f</application>
+        <file_path/>
+        <instance_id>b13b5051dbae3f449df22f17d4961950</instance_id>
+        <instance_name>solveitdemo6</instance_name>
+        <name>sys_ux_composite_data_a7171c821be5e110e4ce21712a4bcbac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data"><sys_ux_composite_data action="INSERT_OR_UPDATE"><active>true</active><base_filter_label>Default</base_filter_label><name>SOW RITM - Assigned to me</name><query_parameters/><required_roles/><sort_order>descend</sort_order><sys_class_name>sys_ux_composite_data</sys_class_name><sys_created_by>emiliano.colla</sys_created_by><sys_created_on>2023-03-14 08:30:41</sys_created_on><sys_id>a7171c821be5e110e4ce21712a4bcbac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SOW RITM - Assigned to me</sys_name><sys_package display_value="Incident Management - Service Operations Workspace" source="sn_sow_inc">49aff4bb733320103e366238edf6a70f</sys_package><sys_policy/><sys_scope display_value="Incident Management - Service Operations Workspace">49aff4bb733320103e366238edf6a70f</sys_scope><sys_update_name>sys_ux_composite_data_a7171c821be5e110e4ce21712a4bcbac</sys_update_name><sys_updated_by>emiliano.colla</sys_updated_by><sys_updated_on>2023-03-14 08:30:41</sys_updated_on></sys_ux_composite_data></record_update>]]></payload>
+        <payload_hash>1819881298</payload_hash>
+        <record_name>SOW RITM - Assigned to me</record_name>
+        <reverted_from/>
+        <source>dcd3944e1ba5e110e4ce21712a4bcbce</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>emiliano.colla</sys_created_by>
+        <sys_created_on>2023-03-14 08:30:41</sys_created_on>
+        <sys_id>30a710c21be5e110e4ce21712a4bcb13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186df3e33bd0000001</sys_recorded_at>
+        <sys_updated_by>emiliano.colla</sys_updated_by>
+        <sys_updated_on>2023-03-14 08:30:41</sys_updated_on>
+        <type>EVAM Definition</type>
+        <update_guid>38a710c267e5e110818ad26684cf9d12</update_guid>
+        <update_guid_history>38a710c267e5e110818ad26684cf9d12:1819881298</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>emiliano.colla</sys_created_by>
+        <sys_created_on>2023-03-14 08:30:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_composite_data">sys_ux_composite_data</sys_db_object>
+        <sys_id>018a50d2190c41c4874119816a406fa9</sys_id>
+        <sys_metadata>a7171c821be5e110e4ce21712a4bcbac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SOW RITM - Assigned to me</sys_name>
+        <sys_package display_value="Incident Management - Service Operations Workspace" source="sn_sow_inc">49aff4bb733320103e366238edf6a70f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Incident Management - Service Operations Workspace">49aff4bb733320103e366238edf6a70f</sys_scope>
+        <sys_scope_delete display_value="">29813562c7a3474caca7d2647e1108e4</sys_scope_delete>
+        <sys_update_name>sys_ux_composite_data_a7171c821be5e110e4ce21712a4bcbac</sys_update_name>
+        <sys_update_version display_value="sys_ux_composite_data_a7171c821be5e110e4ce21712a4bcbac">30a710c21be5e110e4ce21712a4bcb13</sys_update_version>
+        <sys_updated_by>emiliano.colla</sys_updated_by>
+        <sys_updated_on>2023-03-14 08:30:48</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Incident Management - Service Operations Workspace">49aff4bb733320103e366238edf6a70f</claim_owner_scope>
+        <claim_timestamp>186e46300bc0000001</claim_timestamp>
+        <metadata_update_name>sys_ux_composite_data_a7171c821be5e110e4ce21712a4bcbac</metadata_update_name>
+        <previous_claim_app_version>1.0.2</previous_claim_app_version>
+        <previous_claim_name>Incident Management - Service Operations Workspace</previous_claim_name>
+        <previous_claim_scope>49aff4bb733320103e366238edf6a70f</previous_claim_scope>
+        <sys_created_by>emiliano.colla</sys_created_by>
+        <sys_created_on>2023-03-15 08:28:58</sys_created_on>
+        <sys_id>6dd0215a1b656510e4ce21712a4bcb33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>emiliano.colla</sys_updated_by>
+        <sys_updated_on>2023-03-15 08:28:58</sys_updated_on>
+    </sys_claim>
+</record_update>
